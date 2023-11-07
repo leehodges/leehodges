@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lee and I'm here to kick ass and chew bubblegum, but I'm all out of gum.</h2>
+<h2 align="left">Hi 👋! My name is Lee and I'm here to write code and chew bubblegum, but I'm all out of gum.</h2>
 
 ###
 
