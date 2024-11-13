@@ -3,12 +3,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=leehodges" height="150" alt="languages graph"  />
+<img align="right" height="150" src="https://media4.giphy.com/media/1xNApQKoX1uW2vhVE9/giphy.gif?cid=ecf05e47gdab8vgcs1vhmz04oedcs0m8gc287bj5d5b8kh0r&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/1xNApQKoX1uW2vhVE9/giphy.gif?cid=ecf05e47gdab8vgcs1vhmz04oedcs0m8gc287bj5d5b8kh0r&rid=giphy.gif&ct=g"  />
 
 
 ## 🌐Socials
